@@ -16,6 +16,8 @@ Find more information at https://cloud.google.com/sdk/docs/.
 ## Deploy to Google Cloud
 
 - run `gcloud app deploy`
+- Where is my app? `gcloud app browse`
+
 
 ## TODO
 
